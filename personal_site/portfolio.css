@@ -1,0 +1,27 @@
+.box {
+    border: 1px solid whitesmoke;
+    padding: 20px;
+    margin: 20px;
+    background-color: whitesmoke;
+    box-shadow: 0 0 17px lavender;
+}
+
+h2, p, img {
+    background-color: whitesmoke;
+}
+
+h2 {
+    border-bottom: solid thin lightgray;
+}
+
+.right {
+    float: right;
+    padding: 10px;
+    overflow: auto;
+}
+
+.left {
+    float: left;
+    padding: 10px;
+    overflow: auto;
+}
